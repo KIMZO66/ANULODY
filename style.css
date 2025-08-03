@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #0A1A3A;
+  color: #FFD700;
+  margin: 0;
+  padding: 0;
+}
+header img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 150px;
+}
+h1 {
+  font-size: 2.5em;
+  margin-top: 100px;
+}
+.demo {
+  margin: 40px auto;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background: black;
+}
